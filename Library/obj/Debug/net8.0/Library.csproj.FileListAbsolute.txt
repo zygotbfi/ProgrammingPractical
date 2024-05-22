@@ -1,0 +1,14 @@
+C:\Users\BFI ITG\source\repos\Library\Library\bin\Debug\net8.0\Library.exe
+C:\Users\BFI ITG\source\repos\Library\Library\bin\Debug\net8.0\Library.deps.json
+C:\Users\BFI ITG\source\repos\Library\Library\bin\Debug\net8.0\Library.runtimeconfig.json
+C:\Users\BFI ITG\source\repos\Library\Library\bin\Debug\net8.0\Library.dll
+C:\Users\BFI ITG\source\repos\Library\Library\bin\Debug\net8.0\Library.pdb
+C:\Users\BFI ITG\source\repos\Library\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFI ITG\source\repos\Library\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+C:\Users\BFI ITG\source\repos\Library\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+C:\Users\BFI ITG\source\repos\Library\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\BFI ITG\source\repos\Library\Library\obj\Debug\net8.0\Library.dll
+C:\Users\BFI ITG\source\repos\Library\Library\obj\Debug\net8.0\refint\Library.dll
+C:\Users\BFI ITG\source\repos\Library\Library\obj\Debug\net8.0\Library.pdb
+C:\Users\BFI ITG\source\repos\Library\Library\obj\Debug\net8.0\Library.genruntimeconfig.cache
+C:\Users\BFI ITG\source\repos\Library\Library\obj\Debug\net8.0\ref\Library.dll
